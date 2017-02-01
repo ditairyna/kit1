@@ -1,0 +1,12 @@
+import java.util.Arrays;
+
+public class Test {
+    public static void main(String[] args) {
+        int[] arr = {2, 5, 3, 7};
+
+        /*System.out.println(arr);
+        System.out.println(Arrays.toString(arr));
+        System.out.println(printArray(arr));*/
+
+        System.out.println(subString("Hello world", 2, 6));
+    }
